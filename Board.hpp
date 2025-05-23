@@ -49,5 +49,4 @@ namespace tetris
         std::array<Row, height> grid_;       // the whole 20×10 board
     };
 }
-
 #endif
